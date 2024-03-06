@@ -11,3 +11,6 @@ dist-dev
 *.swp
 
 .idea
+
+yarn.lock
+.vscode
